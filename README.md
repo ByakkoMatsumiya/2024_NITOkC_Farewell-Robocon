@@ -14,6 +14,8 @@
 |OS|MbedOS 5|
 |board|NUCLEO F446RE|
 
+**KeilStudioとかいうゴミカスIDEはホンマにくたばれ、マジでくたばってくれ**
+
 ## 開発者
 [SenagaMatsumiya | S.Miyazato](https://github.com/ByakkoMatsumiya)
 ### 連絡先
